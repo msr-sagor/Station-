@@ -45,15 +45,15 @@
     "longitude": 90.5500
   },
   {
-    "name": "Nandina",
-    "latitude": 24.6000,
-    "longitude": 90.6000
+  "name": "Nandina",
+  "latitude": 24.869907,
+  "longitude": 89.946924
   },
-  {
-    "name": "Jamalpur Town Junction",
-    "latitude": 24.9167,
-    "longitude": 89.9500
-  },
+{
+  "name": "Jamalpur Town Junction",
+  "latitude": 24.922765,
+  "longitude": 89.948909
+},
   {
     "name": "Jaforshahi",
     "latitude": 24.9000,
