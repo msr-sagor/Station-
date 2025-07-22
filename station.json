@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Dhaka (Kamalapur)",
+    "latitude": 23.7229,
+    "longitude": 90.4115
+  },
+  {
+    "name": "Dhaka Cantonment",
+    "latitude": 23.7809,
+    "longitude": 90.3978
+  },
+  {
+    "name": "Dhaka Airport (Biman Bandar)",
+    "latitude": 23.8433,
+    "longitude": 90.3978
+  },
+  {
+    "name": "Joydebpur Junction",
+    "latitude": 24.0000,
+    "longitude": 90.4083
+  },
+  {
+    "name": "Gafargaon",
+    "latitude": 24.3167,
+    "longitude": 90.6833
+  },
+  {
+    "name": "Mymensingh Junction",
+    "latitude": 24.7471,
+    "longitude": 90.4022
+  },
+  {
+    "name": "Bidyaganj",
+    "latitude": 24.7000,
+    "longitude": 90.5000
+  },
+  {
+    "name": "Narundi",
+    "latitude": 24.6667,
+    "longitude": 90.5500
+  },
+  {
+    "name": "Nandina",
+    "latitude": 24.6000,
+    "longitude": 90.6000
+  },
+  {
+    "name": "Jamalpur Town Junction",
+    "latitude": 24.9167,
+    "longitude": 89.9500
+  },
+  {
+    "name": "Jaforshahi",
+    "latitude": 24.9000,
+    "longitude": 89.9000
+  },
+  {
+    "name": "Sarishabari",
+    "latitude": 24.76083,
+    "longitude": 89.84006
+  }
+]
